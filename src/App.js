@@ -4,7 +4,9 @@ import "./scss/app.scss"
 function App() {
   return (
     <div className="App">
-      <Layout>Content</Layout>
+      <Layout>
+        Найдите свой идеальный дом в Бишкеке
+      </Layout>
     </div>
   )
 }
